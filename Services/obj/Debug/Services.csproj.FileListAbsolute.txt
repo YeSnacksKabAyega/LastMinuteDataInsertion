@@ -1,0 +1,9 @@
+c:\users\intern.aashish\source\repos\LastMinuteDataInsertion\Services\bin\Debug\Services.dll
+c:\users\intern.aashish\source\repos\LastMinuteDataInsertion\Services\bin\Debug\Services.pdb
+c:\users\intern.aashish\source\repos\LastMinuteDataInsertion\Services\bin\Debug\Models.dll
+c:\users\intern.aashish\source\repos\LastMinuteDataInsertion\Services\bin\Debug\Models.pdb
+c:\users\intern.aashish\source\repos\LastMinuteDataInsertion\Services\obj\Debug\Services.csprojAssemblyReference.cache
+c:\users\intern.aashish\source\repos\LastMinuteDataInsertion\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+c:\users\intern.aashish\source\repos\LastMinuteDataInsertion\Services\obj\Debug\Services.csproj.CopyComplete
+c:\users\intern.aashish\source\repos\LastMinuteDataInsertion\Services\obj\Debug\Services.dll
+c:\users\intern.aashish\source\repos\LastMinuteDataInsertion\Services\obj\Debug\Services.pdb
